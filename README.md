@@ -7,7 +7,7 @@ used when storing the values.  Afterwards, it was simply a matter of loading the
 in the RAM locations.
 
 For part b, I gave a label to the first RAM location and loaded it.  To multiply by two, I added the same number from
-the location.  To subtract by four, I added C, which is the hex equivalent of the binary value for negative four.  This
+the location.  To subtract by four, I added C, which is the hex equivalent of the binary value for negative four. This
 effectively subtracted four from the current value.  When the starting value is set at one or zero, since the value
 multiplied by two is less than four, the result comes out at the other end of the hex values.
 
@@ -19,6 +19,6 @@ program to jump values rather than go down by one each loop.  Ryan Redhead point
 the end to return to the value just below the first output.
 
 #Functionality
--Simple Memory Manipulation (part a)
--Mathematics (part b)
--Loops (part c)
+- Simple Memory Manipulation (part a)
+- Mathematics (part b)
+- Loops (part c)
