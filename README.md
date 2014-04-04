@@ -18,6 +18,8 @@ the program would continue to decrease the output values.  Initially, I was subt
 program to jump values rather than go down by one each loop.  Ryan Redhead pointed out that I needed to add by one at
 the end to return to the value just below the first output.
 
+For all parts, I matched the target end address.
+
 #Functionality
 - Simple Memory Manipulation (part a)
 - Mathematics (part b)
